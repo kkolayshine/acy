@@ -6,7 +6,7 @@ return {
     ["MAMAKHAINGLOVER"] = {
         type = "VIP",
         expiry = "2026-1-23",
-        valid = true,
+        valid = false,
         max_devices = 30,
         SLOT = "30"
     },

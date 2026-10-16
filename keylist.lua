@@ -8,7 +8,7 @@ return {
         expiry = "2026-10-23",
         valid = true,
         max_devices = 30,
-        SLOT = "30"
+        SLOT = "1"
     },
     ["DEMO123"] = {
         type = "DEMO",

@@ -14,7 +14,7 @@ return {
         type = "DEMO",
         expiry = "2026-11-01",
         valid = true,
-        max_devices = 00,
+        max_devices = 1,
         SLOT = "1"
     },
     ["SINGLE_USER"] = {

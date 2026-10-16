@@ -15,7 +15,7 @@ return {
         expiry = "2026-11-01",
         valid = true,
         max_devices = 0,
-        SLOT = "0"
+        SLOT = "1"
     },
     ["SINGLE_USER"] = {
         type = "VIP",

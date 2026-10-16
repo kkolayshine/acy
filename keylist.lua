@@ -17,12 +17,12 @@ return {
         max_devices = 0,
         SLOT = "1"
     },
-    ["SINGLE_USER"] = {
+    ["ILOVEYOU_MAMAKHAING"] = {
         type = "VIP",
-        expiry = "2025-01-01",
+        expiry = "2027-0-00",
         valid = true,
         max_devices = 1,
-        SLOT = "3"
+        SLOT = "1"
     },
     ["BLOCKED"] = {
         type = "BLOCKED",
